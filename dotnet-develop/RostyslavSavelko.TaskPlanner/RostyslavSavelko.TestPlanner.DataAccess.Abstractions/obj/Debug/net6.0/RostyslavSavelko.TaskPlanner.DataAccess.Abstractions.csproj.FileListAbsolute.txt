@@ -1,0 +1,15 @@
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\bin\Debug\net6.0\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.deps.json
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\bin\Debug\net6.0\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.dll
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\bin\Debug\net6.0\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\bin\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.dll
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\bin\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.pdb
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.csproj.CopyComplete
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.dll
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\obj\Debug\net6.0\refint\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.dll
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TestPlanner.DataAccess.Abstractions\obj\Debug\net6.0\ref\RostyslavSavelko.TaskPlanner.DataAccess.Abstractions.dll

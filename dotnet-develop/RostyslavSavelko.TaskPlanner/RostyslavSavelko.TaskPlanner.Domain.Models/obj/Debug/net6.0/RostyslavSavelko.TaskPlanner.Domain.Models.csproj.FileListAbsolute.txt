@@ -1,0 +1,12 @@
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\bin\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.deps.json
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\bin\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.dll
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\bin\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.pdb
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.csproj.AssemblyReference.cache
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.dll
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\obj\Debug\net6.0\refint\RostyslavSavelko.TaskPlanner.Domain.Models.dll
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\obj\Debug\net6.0\RostyslavSavelko.TaskPlanner.Domain.Models.pdb
+C:\Study\dotnet\RostyslavSavelko.TaskPlanner\RostyslavSavelko.TaskPlanner.Domain.Models\obj\Debug\net6.0\ref\RostyslavSavelko.TaskPlanner.Domain.Models.dll
